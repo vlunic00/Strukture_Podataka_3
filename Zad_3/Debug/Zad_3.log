@@ -1,0 +1,9 @@
+﻿  Zad_3.c
+C:\Users\vedro\source\repos\Zad_3\Zad_3\Zad_3.c(207,12): warning C4098: 'unesiIza': 'void' function returning a value
+C:\Users\vedro\source\repos\Zad_3\Zad_3\Zad_3.c(274,12): warning C4098: 'upisi': 'void' function returning a value
+C:\Users\vedro\source\repos\Zad_3\Zad_3\Zad_3.c(305,12): warning C4098: 'citaj': 'void' function returning a value
+C:\Users\vedro\source\repos\Zad_3\Zad_3\Zad_3.c(311,14): warning C4550: expression evaluates to a function which is missing an argument list
+C:\Users\vedro\source\repos\Zad_3\Zad_3\Zad_3.c(312,12): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+C:\Users\vedro\source\repos\Zad_3\Zad_3\Zad_3.c(312,37): warning C4133: 'function': incompatible types - from 'char [100]' to 'FILE *'
+C:\Users\vedro\source\repos\Zad_3\Zad_3\Zad_3.c(319,11): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *const '
+  Zad_3.vcxproj -> C:\Users\vedro\source\repos\Zad_3\Debug\Zad_3.exe
